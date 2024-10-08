@@ -1,6 +1,6 @@
 <html>
 <body>
-  <div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px; width: 100%; max-width: 900px; margin: auto;">
+  <div style="background: linear-gradient(90deg, #f0f8ff, #87cefa, #4682b4); padding: 20px; border-radius: 10px; width: 100%; max-width: 900px; margin: auto;">
     <h1 style="color: #2e8b57; font-size: 40px; font-family: 'Arial', sans-serif;" align="center">
       Nagarjuna Learning AWS DEVOPS webhook From MC Institution TRAINING
     </h1>
@@ -14,4 +14,3 @@
   </div>
 </body>
 </html>
-
