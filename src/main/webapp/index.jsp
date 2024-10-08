@@ -2,7 +2,7 @@
 <body>
   <div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px; width: 100%; max-width: 900px; margin: auto;">
     <h1 style="color: #2e8b57; font-size: 40px; font-family: 'Arial', sans-serif;" align="center">
-      Nagarjuna Learning AWS DEVOPS From MC Institution TRAINING
+      Nagarjuna Learning AWS DEVOPS webhook From MC Institution TRAINING
     </h1>
     <p style="font-size: 20px; color: #000080; text-align: justify; font-family: 'Georgia', serif;">
       "Don't just train people; BUILD the PEOPLE with a strong foundation!"
