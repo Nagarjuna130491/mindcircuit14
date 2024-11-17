@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: fbcont
-          image: devopshubg333/batch14:5
+          image: nagarjuna1304/docker_naga:tag
           ports:
             - containerPort: 8080
 
